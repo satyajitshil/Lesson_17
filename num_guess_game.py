@@ -1,6 +1,6 @@
 import random
 
-random.seed(5)
+#random.seed(5)
 answer = random.randint(10,20)
 print("Welcome to the games. You must pick the correct number or face the consequences...")
 print("Or just win the game!")
