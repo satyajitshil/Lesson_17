@@ -17,4 +17,5 @@ elif player_choice == "Scissor" and cpu_choice == "Paper":
 elif player_choice == "Paper" and cpu_choice == "Rock":
     print("frontman: You wrapped him up!!!!""Computer picked",cpu_choice)
 else:
-    print("You have been eliminated by", cpu_choice ,"!!!... [update: player has been eliminated]")
+    print("You have been eliminated by", cpu_choice ,"!!!... [update: player has been eliminated, next game]")
+    print("[V.5 update: Player Revive... Lvl. 1Paper]")
